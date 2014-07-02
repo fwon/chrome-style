@@ -1,0 +1,1 @@
+chrome extension for getting & setting style from WebPage.
